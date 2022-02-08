@@ -1,1 +1,1 @@
-# Day1 - ( factory & Singleton )
+# Day1 - ( Factory & Singleton )
