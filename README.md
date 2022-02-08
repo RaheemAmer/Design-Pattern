@@ -1,2 +1,1 @@
-# Design-Pattern-Assignments
-Each Day has his own Branch
+# Day1 - ( factory & Singleton )
