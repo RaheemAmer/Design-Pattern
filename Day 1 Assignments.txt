@@ -1,0 +1,9 @@
+1-You have been asked to develop an application for a company X.
+The company has only one chief executive officer (CEO) . The
+application store some information a bout the CEO like: name,
+age and address. You need to find a clean and concise
+implementation of the CEO class in the application .
+
+
+2-You have been hired to develop an application for a car shop. The owner of the car shop wants an easy to navigate interface with the ability to document all the types of vehicles that he fixes in his shop. On a daily basis, through his and his employers hands pass around dozen different types of vehicles. You need to find a clean and concise way to insert all those types of cars into your database.
+
