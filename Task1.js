@@ -20,7 +20,7 @@ class CEO_Company {
 
 
 // login compo
-const Company_CEO = new CEO_Company("Raheem", 24, "Alexandria , Tahrir-Square")
+const Company_CEO = new CEO_Company("Raheem", 24, "Alexandria , luran")
 console.log(Company_CEO);
 
 const Company_Employee = new CEO_Company("Amer", 40, "Cairo ,Tahrir-Square")
