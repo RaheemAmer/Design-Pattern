@@ -1,0 +1,32 @@
+
+
+1-Suppose the following part of module of auth service
+
+-The auth module is responsible for authenticate incoming requests and validate the user credentials and also token.
+-The auth module implemented in more than one part one to mange requests from user and the other is to mange checking credintials with database.
+
+Implement the previous part using SOLID principle
+Assume any missing data.
+
+
+
+2-Assume the following part of shipment module 
+
+When a shipper wants to place a shipment he will choose shipment will be ship using Playground or Air and the customer gives you some requirements that he may add overseas in the future.
+Each shipment has pickup date , delivery date , commodities , ship from and ship to.
+
+Implement the previous part using SOLID principle
+Assume any missing data.
+
+
+3-Assume that we implement the part of checking that user has specific role or not.
+If the user has the specifid role the function return true else return false.
+
+Each user has array of roles and we want to implement the logic so that the user roles array may maximized or minimized .
+
+
+Implement the previous part using SOLID principle
+Assume any missing data
+
+
+4-Search for another example of I and D  principle and implement it
