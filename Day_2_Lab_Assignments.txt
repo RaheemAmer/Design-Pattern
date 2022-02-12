@@ -1,0 +1,15 @@
+1-
+Consider that we have A store that sell products 
+and  every day the store put new products into the store and the store
+want to let every people that interested with store that new product is in the store now.
+
+2-
+Suppose that we play playstation football game and during the game we want to chenge the game plan
+    (attack -defence - meduim)
+
+3-
+A Shop (the Director) and two builder objects: CarBuilder and TruckBuilder. 
+The Shop's construct method accepts a Builder instance which it then takes through a series of assembly
+ steps: 
+step1 and step2.
+The Builder's get method returns the newly assembled products (Car objects and Truck objects).
